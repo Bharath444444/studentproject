@@ -1,4 +1,4 @@
-First project using  Jsp , Jdbc , Mysql , Servlets 
+First project using  Jsp , Jdbc , Mysql , Servlet
 
 Second project using Spring Boot , Jpa , Mysql , Postman
 
